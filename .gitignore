@@ -1,0 +1,14 @@
+# Fichiers spécifiques aux environnemets de développement
+.env
+.idea/
+.vscode/
+
+
+# Dépendances
+node_modules/
+
+
+# Fichiers de log
+*.log
+log/
+tmp/
