@@ -46,6 +46,24 @@ li {
     opacity: 0.6;
 }
 
+.edit-btn {
+    background: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.save-btn {
+    background: green;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
 .delete-btn {
     background: red;
     color: white;
